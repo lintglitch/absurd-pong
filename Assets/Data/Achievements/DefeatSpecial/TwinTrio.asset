@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef0762651792885409fbb7bda459a5ac, type: 3}
+  m_Name: TwinTrio
+  m_EditorClassIdentifier: 
+  id: TwinTrio
+  name: Too many to count
+  description: Defeat trio using the twins
+  finishedDescription: 
+  target: {fileID: 7884633460199216865, guid: f2baa59015889c342801a1b6f562d5a5, type: 3}
+  paddleNeeded: {fileID: 7886897283144975169, guid: a95271c6aa2b1a448ad15ebc91e6d08d,
+    type: 3}

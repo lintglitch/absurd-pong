@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Paddle
+  - Ball
+  - Wall
+  - AchievementMenu
+  - AchievementShower
+  - Selector
+  - Clutter
+  - Rocket
+  - CenterButtons
+  - PlayerController
+  - MenuCanvas
+  - Sphere
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Walls
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3867012369
+    locked: 0
+  - name: Effects
+    uniqueID: 833999413
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Overlay
+    uniqueID: 1802201045
+    locked: 0

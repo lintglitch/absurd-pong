@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef0762651792885409fbb7bda459a5ac, type: 3}
+  m_Name: GravityMaster
+  m_EditorClassIdentifier: 
+  id: GravityMaster
+  name: Gravity Master
+  description: Defeat him too
+  finishedDescription: 
+  target: {fileID: 3399426351888768423, guid: 4ed4cd74338d3ad458ef29451d8bcd82, type: 3}
+  paddleNeeded: {fileID: 0}

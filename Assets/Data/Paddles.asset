@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d7acb4a313801641b28abb2b8ebd308, type: 3}
+  m_Name: Paddles
+  m_EditorClassIdentifier: 
+  enforceOrder: 0
+  choices:
+    array:
+    - {fileID: 5190245776062794273, guid: ff8f5fdf6180f8d4491d44d406eb3259, type: 3}
+    - {fileID: 6997220072699207194, guid: 8bd2dfcea25e48247b2a861c6f529a14, type: 3}
+    - {fileID: 7886897283144975169, guid: a95271c6aa2b1a448ad15ebc91e6d08d, type: 3}
+    - {fileID: 5460715199490472541, guid: 09b4134521a8c7c4c83f08f695565653, type: 3}
+    - {fileID: 8164729004042703650, guid: 2426799cba53bc044878d2498e63ba60, type: 3}
+    - {fileID: 504319603267295121, guid: ae93bf09909f6d44cbdb5a1c0160a79a, type: 3}
+    - {fileID: 4687827885975364045, guid: 104bcedacc4d1eb429d7bec7575cae9e, type: 3}
+    - {fileID: 2008510864525043521, guid: 6e051441e9149f14a93d421929eee3b4, type: 3}
+    - {fileID: 8312612767363503972, guid: be7eacf0e6175d34894597eca4ea6084, type: 3}

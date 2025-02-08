@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef0762651792885409fbb7bda459a5ac, type: 3}
+  m_Name: HeavyScifi
+  m_EditorClassIdentifier: 
+  id: SniperScifi
+  name: Modern weapons
+  description: Defeat Scifi using Heavy
+  finishedDescription: 
+  target: {fileID: 3010693867034320828, guid: 902115a395768f3418a097174dc5df97, type: 3}
+  paddleNeeded: {fileID: 504319603267295121, guid: ae93bf09909f6d44cbdb5a1c0160a79a,
+    type: 3}
+  unlocksNext: 0
+  defeatAllWithPaddle: 0
